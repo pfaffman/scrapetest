@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Discourse Search</ShortName>
+  <Description>Search for posts on Discourse</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://testing.literatehosting.com/uploads/default/optimized/1X/_129430568242d1b7f853bb13ebea28b3f6af4e7_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://testing.literatehosting.com/opensearch.xml"/>
+  <Url type="text/html" template="https://testing.literatehosting.com/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

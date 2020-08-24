@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Welcome to Discourse</title>
+    <link>https://testing.literatehosting.com/t/welcome-to-discourse/7</link>
+    <description>
+The first paragraph of this pinned topic will be visible as a welcome message to all new visitors on your homepage. It&#39;s important!
+
+**Edit this** into a brief description of your community:
+
+- Who is it for?
+- What can they find here?
+- Why should they come here?
+- Where can they read more (links, resources, etc)?
+
+&lt;img src=&quot;/images/welcome/discourse-edit-post-animated.gif&quot; width=&quot;508&quot; height=&quot;106&quot;&gt;
+
+You may want to close this topic via the admin :wrench: (at the upper right and bottom), so that replies don&#39;t pile up on an announcement.</description>
+    
+    <lastBuildDate>Fri, 21 Feb 2020 16:49:47 +0000</lastBuildDate>
+    <category>Uncategorized</category>
+    <atom:link href="https://testing.literatehosting.com/t/welcome-to-discourse/7.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Welcome to Discourse</title>
+        <dc:creator><![CDATA[system]]></dc:creator>
+        <description><![CDATA[
+            <p>The first paragraph of this pinned topic will be visible as a welcome message to all new visitors on your homepage. It’s important!</p>
+<p><strong>Edit this</strong> into a brief description of your community:</p>
+<ul>
+<li>Who is it for?</li>
+<li>What can they find here?</li>
+<li>Why should they come here?</li>
+<li>Where can they read more (links, resources, etc)?</li>
+</ul>
+<p><img src="https://testing.literatehosting.com/images/welcome/discourse-edit-post-animated.gif" width="508" height="106"></p>
+<p>You may want to close this topic via the admin <img src="https://testing.literatehosting.com/images/emoji/twitter/wrench.png?v=9" title=":wrench:" class="emoji" alt=":wrench:"> (at the upper right and bottom), so that replies don’t pile up on an announcement.</p>
+          <p><a href="https://testing.literatehosting.com/t/welcome-to-discourse/7/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://testing.literatehosting.com/t/welcome-to-discourse/7/1</link>
+        <pubDate>Fri, 21 Feb 2020 16:49:47 +0000</pubDate>
+        <guid isPermaLink="false">testing.literatehosting.com-post-7-1</guid>
+        <source url="https://testing.literatehosting.com/t/welcome-to-discourse/7.rss">Welcome to Discourse</source>
+      </item>
+  </channel>
+</rss>

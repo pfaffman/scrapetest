@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Reject this mother</title>
+    <link>https://testing.literatehosting.com/t/reject-this-mother/23</link>
+    <description>this is a post t taha lkj sdf</description>
+    
+    <lastBuildDate>Fri, 15 May 2020 17:02:18 +0000</lastBuildDate>
+    <category>Transcription</category>
+    <atom:link href="https://testing.literatehosting.com/t/reject-this-mother/23.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Reject this mother</title>
+        <dc:creator><![CDATA[pfaffman]]></dc:creator>
+        <description><![CDATA[
+            <p>this is a post t taha lkj sdf</p>
+          <p><a href="https://testing.literatehosting.com/t/reject-this-mother/23/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://testing.literatehosting.com/t/reject-this-mother/23/1</link>
+        <pubDate>Fri, 15 May 2020 17:02:18 +0000</pubDate>
+        <guid isPermaLink="false">testing.literatehosting.com-post-23-1</guid>
+        <source url="https://testing.literatehosting.com/t/reject-this-mother/23.rss">Reject this mother</source>
+      </item>
+  </channel>
+</rss>

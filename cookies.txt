@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+testing.literatehosting.com	TRUE	/	FALSE	1999999999	_forum_session	WStxNTJxbWdldFJrRlM3MWJIdnZoRmMxT0xhdDErRExzck5WVXRBbHM1dUh1UW5EY1daTmVOY2dHWnA2a2tkdlFqdnp2dVZVc2xVbDVQT3pTSWEzQ0E9PS0tVEZjUWNpaU5QMU9mMHNMbDNaMk12QT09--a8df41a95c53f4a25131bd99ce12eaec2626807d
+testing.literatehosting.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

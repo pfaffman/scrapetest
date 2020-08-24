@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the General category</title>
+    <link>https://testing.literatehosting.com/t/about-the-general-category/13</link>
+    <description>General stuff goes here and style.</description>
+    
+    <lastBuildDate>Fri, 28 Feb 2020 23:25:09 +0000</lastBuildDate>
+    <category>General</category>
+    <atom:link href="https://testing.literatehosting.com/t/about-the-general-category/13.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the General category</title>
+        <dc:creator><![CDATA[pfaffman]]></dc:creator>
+        <description><![CDATA[
+            <p>General stuff goes here and style.</p>
+          <p><a href="https://testing.literatehosting.com/t/about-the-general-category/13/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://testing.literatehosting.com/t/about-the-general-category/13/1</link>
+        <pubDate>Fri, 28 Feb 2020 23:24:22 +0000</pubDate>
+        <guid isPermaLink="false">testing.literatehosting.com-post-13-1</guid>
+        <source url="https://testing.literatehosting.com/t/about-the-general-category/13.rss">About the General category</source>
+      </item>
+  </channel>
+</rss>
